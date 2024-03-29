@@ -3,9 +3,6 @@
     padding: 0px;
     box-sizing: border-box;
 }
-/* div{
-    border: 2px solid red;
-} */
 .respond{
     display: none;
 }
@@ -69,17 +66,12 @@ p.line{
     margin-top: 30px;
     margin-bottom: 10px;
 }
-/* .Next{
-    font-size: 16px;
-    padding: 5px 7px;
-} */
+
 .btn{
     padding: 10px 20px;
     border-radius: 10px;
-    /* background-color: ; */
 }
 .design{
-    /* border: 2px solid black; */
     margin: 0;
 }
 small{
@@ -154,12 +146,11 @@ small{
     .loginpage{
         padding: 10px 20px;
         width: 100%;
-        /* line-height: 40px; */
     }
     .logo1{
         padding: 0px 80px;
         margin-bottom: 10px;
-        width: 320px;
+        width: 100%;
         justify-content: center;
     }
     .logo2{
@@ -191,7 +182,6 @@ form{
 }
 label{
     font-size: 20px;
-    /* margin-top: 50px; */
 }
 input{
     padding: 15px;
@@ -209,7 +199,7 @@ p.line{
 small{
     font-size: 16px;
     top: 385px;
-    left: 80px;
+    left: 100px;
 }
 .btn{
     width: 100%;
